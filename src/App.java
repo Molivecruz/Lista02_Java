@@ -13,7 +13,7 @@ public class App {
 
         tc.close();
 
-        if (n1 > n2) {
+        if (n1 >= n2) {
             System.out.print("O maior número é: " + n1);
         } else {
             System.out.print("O maior número é: " + n2);   
